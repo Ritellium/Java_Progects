@@ -1,0 +1,31 @@
+<SentenceBD>
+	<Tokens>
+		<token>123123</token>
+		<token>ewrw</token>
+		<token>532.903</token>
+		<token>rrrr</token>
+		<token>13:23:23</token>
+	</Tokens>
+	<Tokens>
+		<token>523123</token>
+		<token>werewrw</token>
+		<token>2432.333</token>
+		<token>sferrrr</token>
+		<token>523123</token>
+		<token>12:23:43</token>
+	</Tokens>
+	<Tokens>
+		<token>823123</token>
+		<token>werewrw</token>
+		<token>2432.333</token>
+		<token>sferrrr</token>
+		<token>12:23:43</token>
+	</Tokens>
+	<Tokens>
+		<token>923123</token>
+		<token>werewrw</token>
+		<token>2432.333</token>
+		<token>sferrrr</token>
+		<token>12:23:43</token>
+	</Tokens>
+</SentenceBD>
